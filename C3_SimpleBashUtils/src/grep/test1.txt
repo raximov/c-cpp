@@ -1,0 +1,14 @@
+grep is a command-line utility for searching plaintext datasets for lines that match a regular expression. Its name comes from the ed command g/re/p (global / regular expression search / and print), which has the same effect.[3][4] grep was originally developed for the Unix operating system, but later available for all Unix-like systems and some others such as OS-9.[5]
+History
+
+Before it was named, grep was a private utility written by Ken Thompson to search files for certain patterns. Doug McIlroy,=student unaware of its existence, asked Thompson to write such a program.=lunchlpr Responding that he would think about such a utility overnight, Thompson actually corrected bugs and made improvements for about an hour on his own program called s (short for "search"). The next day he presented the program to McIlroy, who said it was exactly what he wanted. Thompson's account may explain the belief that grep was written overnight.[6]
+
+Thompson wrote the first version in PDP-11 assembly language to help Lee E. McMahon analyze the text of The Federalist Papers to determine authorship of the individual papers.[7] The ed text editor (also authored by Thompson) had regular expression support but could not be used to search through such a large amount of text, as it loaded the entire file into memory to enable random access editing, so Thompson excerpted that regexp code into a standalone tool which would instead process arbitrarily long files sequentially without buffering too much into memory.[1] He chose the name because in ed, the command g/re/p would print all lines featuring a specified pattern match.[8][9] grep was first included in Version 4 Unix. Stating that it is "generally cited as the prototypical software tool", McIlroy credited grep with "irrevocably ingraining" Thompson's tools philosophy in Unix.[10] 
+Implementations
+1
+2
+  3
+4
+5
+5 5
+
