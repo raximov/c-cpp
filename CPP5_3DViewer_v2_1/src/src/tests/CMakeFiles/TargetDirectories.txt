@@ -1,0 +1,3 @@
+/home/anwarbek/Project/CPP5_3DViewer_v2_1.ID_353538-Team_TL_suggsshp.ffa43dbb_933a_4e26-1/src/src/tests/CMakeFiles/test_runner.dir
+/home/anwarbek/Project/CPP5_3DViewer_v2_1.ID_353538-Team_TL_suggsshp.ffa43dbb_933a_4e26-1/src/src/tests/CMakeFiles/edit_cache.dir
+/home/anwarbek/Project/CPP5_3DViewer_v2_1.ID_353538-Team_TL_suggsshp.ffa43dbb_933a_4e26-1/src/src/tests/CMakeFiles/rebuild_cache.dir
