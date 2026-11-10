@@ -1,6 +1,6 @@
-# C/C++ Systems Programming & Linux (School 21)
+# C / C++ Systems Programming (School 21)
 
-Low-level C/C++ projects (`s21_string+`, `s21_math`, `s21_decimal`, `s21_matrix`, `SimpleBashUtils`, `BrickGame`, `3DViewer v2`, `C++ MLP`) and Linux server administration (`D01_Linux`).
+Low-level C and C++ projects: `s21_string+`, `s21_math`, `s21_decimal`, `s21_matrix`, `SimpleBashUtils`, `BrickGame`, `3DViewer v2` (MVC/Qt/OpenGL), and `C++ MLP` (neural network in pure C++).
 
 ## Projects
 
@@ -15,7 +15,6 @@ Low-level C/C++ projects (`s21_string+`, `s21_math`, `s21_decimal`, `s21_matrix`
 | [CPP5_3DViewer_v2_1](./CPP5_3DViewer_v2_1/) | 3DViewer v2.1 | 2026-06-29 | 57 |
 | [CPP6_3DViewer_v2_2](./CPP6_3DViewer_v2_2/) | 3DViewer v2.2 | 2026-06-29 | 39 |
 | [CPP7_MLP](./CPP7_MLP/) | Multilayer Perceptron | 2026-06-30 | 19 |
-| [D01_Linux](./D01_Linux/) | UNIX/Linux operating systems (Basic). | 2026-03-06 | 65 |
 
 ---
 Author: [Abduhamid Raximov](https://github.com/raximov) (School 21 — `volentib`)
