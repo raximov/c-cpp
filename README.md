@@ -1,13 +1,11 @@
 # C/C++ Systems Programming & Linux (School 21)
 
-Low-level C/C++ projects (`s21_string+`, `s21_math`, `s21_decimal`, `s21_matrix`, `SimpleBashUtils`, `BrickGame`, `Maze`, `SimpleNavigator`, `3DViewer v2`, `C++ MLP`) and Linux server administration (`D01_Linux`).
+Low-level C/C++ projects (`s21_string+`, `s21_math`, `s21_decimal`, `s21_matrix`, `SimpleBashUtils`, `BrickGame`, `3DViewer v2`, `C++ MLP`) and Linux server administration (`D01_Linux`).
 
 ## Projects
 
 | Module | Topic | Last Updated | Files |
 | --- | --- | --- | ---: |
-| [A1_Maze_C](./A1_Maze_C/) | Maze | 2026-02-04 | 26 |
-| [A2_SimpleNavigator_C](./A2_SimpleNavigator_C/) | SimpleNavigator | 2026-05-22 | 12 |
 | [C2_s21_stringplus](./C2_s21_stringplus/) | s21_string+ | 2025-06-30 | 50 |
 | [C3_SimpleBashUtils](./C3_SimpleBashUtils/) | Simple Bash Utils | 2024-10-09 | 13 |
 | [C4_s21_math](./C4_s21_math/) | s21_math | 2026-03-03 | 41 |
